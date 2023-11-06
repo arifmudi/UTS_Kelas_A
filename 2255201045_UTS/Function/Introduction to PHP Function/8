@@ -1,0 +1,16 @@
+<?php
+// Suryaa Gama
+function increaseEnthusiasm()
+{
+    return "hi!"; // 2255201045
+}
+echo increaseEnthusiasm("Gamakeren");
+function repeatThreeTimes($str)
+{
+    return $str . $str . $str;
+} // KELas A
+echo increaseEnthusiasm("gma");
+
+echo repeatThreeTimes("paling");
+
+echo increaseEnthusiasm(repeatThreeTimes("keren"));

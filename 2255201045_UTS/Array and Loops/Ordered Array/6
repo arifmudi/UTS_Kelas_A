@@ -1,0 +1,10 @@
+<?php
+namespace Codecademy;
+
+$change_me = [3, 6, 9];
+// SUrya Gama
+$change_me[] = "gama"; // 2255201045
+$change_me[] = 22;
+$change_me[1] = "tadpole";
+echo implode(", ", $change_me);
+//KELas A

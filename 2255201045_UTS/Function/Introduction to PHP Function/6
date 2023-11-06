@@ -1,0 +1,19 @@
+<?php
+function first()
+{
+    return "You did it!\n";
+}
+// surya GAMA
+function second()
+{
+    return "You're amazing!\n"; // 2255201045
+}
+// kelas a
+function third()
+{
+    return "You're a coding hero!\n";
+}
+
+// Write your code below:
+
+echo first() . " " . second() . " " . third();

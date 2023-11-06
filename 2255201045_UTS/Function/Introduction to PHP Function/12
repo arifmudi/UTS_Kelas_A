@@ -1,0 +1,12 @@
+<?php
+// SUrya GGAma
+$language = "PHP";
+$topic = "scope";
+//2255201045
+function generateLessonName($concept)
+{
+    global $language;
+    return $language . ": " . $concept;
+} // KELAS A
+
+echo generateLessonName($topic);

@@ -1,0 +1,16 @@
+<?php
+namespace Codecademy;
+
+function clapYourHands($happy, $knowIt)
+{
+    if ($happy && $knowIt) {
+        return "CLAP!"; // Surya Gama
+        // 2255201045
+        // KElas A
+    } else {
+        return ":(";
+    }
+}
+echo clapYourHands(TRUE, TRUE);
+echo "\n";
+echo clapYourHands(TRUE, FALSE);

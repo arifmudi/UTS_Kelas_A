@@ -1,0 +1,13 @@
+<?php
+
+// Surya Gmaaaaaa
+function printStringReturnNumber() // 2255201045
+{
+    echo "4, 3, 2, 1, ";
+    return 3;
+}
+$return_value = printStringReturnNumber(); // Prints: 4, 3, 2, 1, 
+echo $return_value; // Prints: blastoff!
+$my_num = printStringReturnNumber();
+echo $my_num;
+// KELAS A

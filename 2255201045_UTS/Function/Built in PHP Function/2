@@ -1,0 +1,14 @@
+<?php
+namespace Codecademy;
+
+$first = "Welcome to the magical world of built-in functions.";
+
+$second = 82137012983;
+
+// SUrya Gama
+echo gettype($first); // 2255201045
+echo "\n";
+echo gettype($second);
+var_dump($first); // KElas A
+echo "\n";
+var_dump($second);

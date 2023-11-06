@@ -1,0 +1,9 @@
+<?php
+namespace Codecademy;
+
+// Surya Gama
+//2255201045
+
+echo 'waraduu: ' . getrandmax() . "\n";
+echo 'elgatooo, adaaam, wilsoon: ' . rand();
+echo 'nomor randomni ' . rand(1, 52); // KELAS A

@@ -1,0 +1,5 @@
+<?php
+//NAMA:KHAIRUNNISA
+echo "I love PHP!";
+//NIM:2255201004
+//KELAS:A

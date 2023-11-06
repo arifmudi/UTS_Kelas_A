@@ -1,0 +1,6 @@
+<?php
+//Surya Gama
+// 2255201045
+$first_array = array("kera", 2, "kucing", 4, "anjing");
+echo count($first_array);
+// KELAS A

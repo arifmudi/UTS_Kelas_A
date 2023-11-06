@@ -1,0 +1,27 @@
+<?php
+//Surya Gama
+namespace Codecademy;
+
+function chooseCheckoutLane($numItems)
+{
+    if ($numItems <= 12) {
+        return "express lane";
+    } else {
+        return "regular lane";
+    }
+} // 2255201045
+echo chooseCheckoutLane(10);
+echo ("\n");
+echo chooseCheckoutLane(15);
+function canIVote($age)
+{
+    if ($age >= 18) {
+        return "yes";
+    } else {
+        return "no";
+    }
+} // KElas A
+echo ("\n");
+echo canIVote(20);
+echo ("\n");
+echo canIVote(16);

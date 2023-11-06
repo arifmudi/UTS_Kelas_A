@@ -1,0 +1,35 @@
+<?php
+namespace Codecademy;
+
+// Surya GAma
+function convertToShout($str)
+{
+    return strtoupper($str) . "!";
+}
+
+echo convertToShout("woah there, buddy");
+echo convertToShout("i just don't know");
+echo convertToShout("oh, ok, that's fine");
+echo convertToShout("it's nice to meet you");
+
+function tipGenerously($cost)
+{
+    return ceil($cost * 1.2); // 2255201045
+}
+
+echo tipGenerously(100.00);
+echo tipGenerously(982.27);
+echo tipGenerously(15.67);
+echo tipGenerously(66.18);
+echo tipGenerously(21.65);
+
+function calculateCircleArea($diameter)
+{
+    return pi() * ($diameter / 2) ** 2;
+}
+// KElas A
+echo calculateCircleArea(25);
+echo calculateCircleArea(30);
+echo calculateCircleArea(872);
+echo calculateCircleArea(6);
+echo calculateCircleArea(29);

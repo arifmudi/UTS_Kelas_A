@@ -1,0 +1,14 @@
+<?php
+// Surya Gama
+function calculateArea($height, $width)
+{
+    return $height * $width; // 2255201045
+}
+function calculateVolume($height, $width, $depth)
+{
+    return $height * $width * $depth;
+}
+// KELAS A
+echo calculateArea(10, 22);
+echo "\n";
+echo calculateVolume(6, 37, 21);

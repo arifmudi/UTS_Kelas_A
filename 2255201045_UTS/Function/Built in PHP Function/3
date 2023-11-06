@@ -1,0 +1,12 @@
+<?php
+namespace Codecademy;
+
+// SURYA GAMA
+// 2255201045
+$a = ".pu ti peeK .taerg gniod er'uoY";
+echo strrev($a);
+$b = "SOON, tHiS WILL Look NoRmAL.";
+echo strtolower($b);
+$c = "\nThere's no place like home.\n";
+echo str_repeat($c, 3);
+// KElas A

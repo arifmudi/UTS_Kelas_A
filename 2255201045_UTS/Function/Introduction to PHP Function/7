@@ -1,0 +1,12 @@
+<?php
+function createVacuum()
+{
+    echo "I'm running! I'm running!\n";
+}
+
+$result = createVacuum(); // Prints: I'm running! I'm running!
+echo createVacuum() * 10; // Prints: 0
+// Surya Gamaaaa
+// 2255201045
+// KELAS A
+;

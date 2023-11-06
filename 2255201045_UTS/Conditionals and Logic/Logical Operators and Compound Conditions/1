@@ -1,0 +1,20 @@
+<?php
+// Surya Gama
+namespace Codecademy;
+
+// 2255201045
+function both($first, $second)
+{
+    if ($first) {
+        if ($second) {
+            return "both";
+        } else {
+            return "not both";
+        }
+    } else {
+        return "not both";
+    }
+} // KElas A
+echo both(true, true);
+echo ("\n");
+echo both(true, false);

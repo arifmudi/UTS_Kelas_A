@@ -1,0 +1,9 @@
+<?php
+namespace Codecademy;
+
+$stack = ["wild success", "failure", "struggle"];
+// Surya Gama
+array_push($stack, "blocker", "impediment"); // 2255201045
+while (count($stack) > 1) {
+    array_pop($stack);
+} // KElas A

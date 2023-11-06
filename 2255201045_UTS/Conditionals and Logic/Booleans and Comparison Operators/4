@@ -1,0 +1,30 @@
+<?php
+namespace Codecademy;
+
+function agreeOrDisagree($str1, $str2)
+{
+    if ($str1 === $str2) {
+        return "You agree!";
+    } else {
+        return "You disagree!";
+    }
+}
+echo agreeOrDisagree("Hello", "Hello");
+echo ("\n");
+echo agreeOrDisagree("Hello", "World");
+echo ("\n");
+
+function checkRenewalMonth($renewalMonth)
+{
+    $currentMonth = date('F'); // Surya Gama
+// 2255201045
+    if ($currentMonth === $renewalMonth) {
+        return "Time to renew";
+    } else {
+        return "Welcome!";
+    }
+}
+// KElas A
+echo checkRenewalMonth("November");
+echo ("\n");
+echo checkRenewalMonth("December");

@@ -1,0 +1,27 @@
+<?php
+namespace Codecademy; // Surya Gma
+
+$record_holders = [];
+// 2255201045
+
+array_unshift(
+    $record_holders,
+    "Tim Montgomery",
+    "Maurice Greene",
+    "Donovan Bailey",
+    "Leroy Burrell",
+    "Carl Lewis"
+);
+print_r($record_holders);
+
+array_shift($record_holders);
+print_r($record_holders);
+// KElas A
+array_unshift($record_holders, "Justin Gatlin", "Asafa Powell");
+print_r($record_holders);
+
+array_shift($record_holders);
+print_r($record_holders);
+
+array_unshift($record_holders, "Usain Bolt");
+print_r($record_holders);

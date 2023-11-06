@@ -1,0 +1,13 @@
+<?php
+namespace Codecademy;
+
+$fruit = "banana";
+$protein = "pork";
+
+// surya gama
+// 2255201045
+// kelas a
+if ($fruit == "banana" xor $protein == "chicken") {
+    echo "Dig in!";
+}
+

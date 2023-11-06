@@ -1,0 +1,9 @@
+<?php
+// surya agama
+include "top_bread.php";
+include "mayo.php";
+include "lettuce.php";
+// 2255201045
+echo "Sliced, ripe daging\nsayur\ndaging\n";
+// kelas a
+include "bottom_bread.php";

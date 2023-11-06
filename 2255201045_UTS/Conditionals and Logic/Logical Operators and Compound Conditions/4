@@ -1,0 +1,17 @@
+<?php
+namespace Codecademy; // surya gama
+
+function duckDuckGoose($is_goose)
+{
+    if (!$is_goose) {
+        return "duck";
+    } else {
+        return "goose!";
+    }
+} // 2255201045
+// kelas a
+echo duckDuckGoose(FALSE);
+echo "\n";
+echo duckDuckGoose(FALSE);
+echo "\n";
+echo duckDuckGoose(TRUE);

@@ -1,0 +1,10 @@
+<?php
+// SUUrya GAmma
+function calculateTip($total, $tip = 20)
+{
+    return $total * (1 + $tip / 100);
+} // 2255201045
+// KELAS A
+echo calculateTip(100, 25);
+echo calculateTip(100);
+echo calculateTip(65, 15);

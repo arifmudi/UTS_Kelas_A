@@ -1,0 +1,27 @@
+<?php
+namespace Codecademy;
+
+// USRYa GAma
+// 2255201045
+function calculateDistance($num1, $num2)
+{
+    return abs($num1 - $num2);
+}
+
+echo calculateDistance(-1, 4);
+echo calculateDistance(4, -1);
+echo calculateDistance(3, 7);
+echo calculateDistance(7, 3);
+// KELAS a
+function calculateTip($total_cost)
+{
+    $tip = $total_cost * 0.18;
+    $new_total = $total_cost + $tip;
+    return round($new_total);
+}
+
+echo calculateTip(100);
+echo calculateTip(35);
+echo calculateTip(88.77);
+
+

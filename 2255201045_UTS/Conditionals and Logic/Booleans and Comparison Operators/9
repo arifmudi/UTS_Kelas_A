@@ -1,0 +1,16 @@
+<?php
+namespace Codecademy;
+
+// USryha Gama
+function truthyOrFalsy($value)
+{
+    if ($value) {
+        return "True";
+    } else {
+        return "False";
+    }
+} // 2255201045
+echo truthyOrFalsy(1);
+echo ("\n");
+echo truthyOrFalsy(0);
+// KELas A

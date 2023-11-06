@@ -1,0 +1,8 @@
+<?php
+$plant_height = 22; // Surya Gama
+$count = 1;
+do { // 2255201045
+    echo "The count is: " . $count . "\n";
+    $count += 1;
+} while ($count < 11);
+// Kelas A

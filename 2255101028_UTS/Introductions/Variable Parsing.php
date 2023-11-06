@@ -1,0 +1,19 @@
+<?php
+// Fill in the blanks in the code below:
+// Write your code below:
+// Nama :Putri cindy claudia
+// NIM  :2255201028
+// Kelas : A
+  $noun = "helicopter";
+  $adjective = "powerful";
+  $verb = "scream";
+
+  echo "The world's most beloved $noun was very $adjective and loved to $verb every single day.";
+
+
+//Fix the code below and uncomment it:
+
+ echo "\nI have always been obsessed with ${noun}s. I'm ${adjective}ish. I'm always ${verb}ing.";
+
+
+

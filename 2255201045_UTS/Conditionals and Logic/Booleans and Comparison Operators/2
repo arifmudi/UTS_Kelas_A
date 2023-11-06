@@ -1,0 +1,16 @@
+<?php
+namespace Codecademy;
+
+// surya Gama
+function markAnswer($is_correct)
+{
+    if ($is_correct) { // 2255201045
+        return "green";
+    } else {
+        return "red";
+    }
+} // Kelas A
+echo markAnswer(FALSE);
+echo "\n\n";
+echo markAnswer(TRUE);
+echo "\n\n";

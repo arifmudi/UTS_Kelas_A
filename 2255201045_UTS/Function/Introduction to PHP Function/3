@@ -1,0 +1,11 @@
+<?php
+// Surya Gama
+function inflateEgo()
+{
+    echo "yo, ini Gama keren :)\n";
+    echo "btw, nickname game ku SyGmaa\n";
+    echo "Adios!"; //2255201045
+}
+// KELAS A
+inflateEgo();
+inflateEgo();

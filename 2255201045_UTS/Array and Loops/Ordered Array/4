@@ -1,0 +1,13 @@
+<?php
+namespace Codecademy;
+
+$message = ["yoo", " wasup", " geiss!\n"];
+
+$favorite_nums = [2, 22, 222, 2222, 2222];
+// SUrya Gama
+//2255201045
+// KELas A
+
+echo implode("!", $message);
+
+print_r($favorite_nums);

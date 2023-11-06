@@ -1,0 +1,24 @@
+<?php
+
+function notFound()
+{
+    echo "ERROR: Page not found!\n";
+    return 404;
+} // SURYA gamaaa
+
+function greetLearner()
+{
+
+    echo "Hello, Learner!\n";
+    echo "I hope you're (still) enjoying PHP!\n";
+    echo "Love, Codecademy\n";
+    return "<3";
+}
+
+// 2255201045
+// Kelas A
+
+$error = notFound();
+$heart = greetLearner();
+
+echo "I received a $error, but it's ok because I also received $heart.";

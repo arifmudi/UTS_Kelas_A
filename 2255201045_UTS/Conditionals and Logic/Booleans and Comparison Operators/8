@@ -1,0 +1,22 @@
+<?php
+namespace Codecademy;
+
+// Surya Gmaa
+function ternaryCheckout($item)
+{
+    return ($item <= 12) ? "express lane" : "regular lane";
+}
+// 2255201045
+// KElas A
+function ternaryVote($age)
+{
+    return ($age >= 18) ? "yes" : "no";
+}
+echo ternaryCheckout(10);
+echo ("\n");
+echo ternaryCheckout(15);
+echo ("\n");
+
+echo ternaryVote(20);
+echo ("\n");
+echo ternaryVote(16);

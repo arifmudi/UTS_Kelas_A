@@ -1,0 +1,15 @@
+<?php
+namespace Codecademy;
+
+// SUrya Gmaa
+// 2255201045
+$hybrid_array = [
+    "gama",
+    222,
+    "surya",
+    "apalah",
+    8 => "five more"
+];
+print_r($hybrid_array); // KElas A
+array_push($hybrid_array, rand());
+echo $hybrid_array[9];

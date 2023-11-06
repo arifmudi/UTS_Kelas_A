@@ -1,0 +1,17 @@
+<?php
+namespace Codecademy;
+
+function willWeEat($meal, $isHungry)
+{
+    if ($meal == "dessert" || $isHungry) {
+        return "Yum. Thanks!";
+    } else {
+        return "No thanks. We're not hungry.";
+    }
+}
+echo willWeEat("dessert", false);
+echo "\n";
+echo willWeEat("lunch", false);
+// Surya Gama
+// 2255201045
+// Kelas A

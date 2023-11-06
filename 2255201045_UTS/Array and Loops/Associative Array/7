@@ -1,0 +1,18 @@
+<?php
+namespace Codecademy;
+
+$giraffe_foods = ["dip" => "guacamole", "chips" => "corn", "entree" => "grilled chicken"]; //Surya Gana
+// 2255201045
+$impala_foods = ["dessert" => "cookies", "vegetable" => "asparagus", "side" => "mashed potatoes"];
+$rat_foods = ["dip" => "mashed earth worms", "entree" => "trash pizza", "dessert" => "sugar cubes", "drink" => "lemon water"];
+// KEkas a
+$giraffe_foods = ["batagor", "somay", "kerikil"];
+$impala_foods = ["nasi uduk", "pete", "jengkol"];
+
+$potluck = $giraffe_foods + $impala_foods;
+print_r($potluck);
+
+$rat_foods = ["kabel", "kawat", "triplek"];
+$potluck_with_rat = $potluck + $rat_foods;
+
+print_r($potluck_with_rat);

@@ -1,0 +1,21 @@
+<?php
+namespace Codecademy;
+
+
+$treasure_hunt = [
+    // Surya Gama
+    "garbage",
+    "cat",
+    //2255201045
+    99,
+    ["soda can", 8, ":)", "sludge", ["stuff", "lint", ["GOLD!"], "cave", "bat", "scorpion"], "rock"],
+    "glitter",
+    "moonlight",
+    2.11
+];
+
+// KElas A
+
+$gold = $treasure_hunt[3][4][2][0];
+
+echo $gold;
