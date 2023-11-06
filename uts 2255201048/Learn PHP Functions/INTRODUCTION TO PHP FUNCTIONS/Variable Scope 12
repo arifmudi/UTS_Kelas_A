@@ -1,0 +1,14 @@
+<!-- nama : zilla tulhusna  -->
+<?php
+
+$language = "PHP";
+$topic = "scope";
+// nim : 2255201048
+function generateLessonName($concept)
+{
+  global $language;
+  return $language . ": " . $concept;
+}
+
+echo generateLessonName($topic);
+// kelas a
