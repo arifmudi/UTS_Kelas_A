@@ -1,0 +1,12 @@
+<!-- nama : zilla tulhusna -->
+<?php
+namespace Codecademy;
+
+// Write your code below:
+echo getrandmax();
+echo "\n";
+// nim : 2255201048
+echo rand();
+echo "\n";
+echo rand(1, 52);
+// kelas a

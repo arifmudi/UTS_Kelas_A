@@ -1,0 +1,10 @@
+<!-- Nama: Zilla Tulhusna -->
+<?php
+$count = 1;
+while ($count <= 100)
+//Nim: 2255201048
+if ($count % 33 === 0) 
+echo $count . " is divisible by 33\n";
+  
+$count += 1;
+//Kelas: A

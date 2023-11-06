@@ -1,0 +1,21 @@
+<!-- nama : zilla tulhusna -->
+<?php
+function first()
+{
+  return "You strong!\n";
+}
+
+function second()
+{
+  return "You love!\n";
+}
+// nim :2255201048
+function third()
+{
+  return "You special!\n";
+}
+
+// Write your code below:
+
+echo first() . second() . third();
+// kelas A

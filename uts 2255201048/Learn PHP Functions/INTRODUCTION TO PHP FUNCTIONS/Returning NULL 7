@@ -1,0 +1,18 @@
+<!-- nama : zilla tulhusna -->
+<?php
+
+// Write your code below:
+function createVacuum() 
+{
+ echo "Saya bersemngat beljar\n";
+}
+  
+// nim : 2255201048
+  
+  
+  
+  
+  
+  
+echo createVacuum() * 10;
+// kelas A
