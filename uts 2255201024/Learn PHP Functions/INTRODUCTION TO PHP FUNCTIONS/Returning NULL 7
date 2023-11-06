@@ -1,0 +1,18 @@
+<!-- nama : muhammad alhashir -->
+<?php
+
+// Write your code below:
+function createVacuum() 
+{
+ echo "Saya bersemngat belajar php\n";
+}
+  
+// nim : 2255201024
+  
+  
+  
+  
+  
+  
+echo createVacuum() * 10;
+// kelas A

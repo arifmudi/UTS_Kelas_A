@@ -1,0 +1,7 @@
+<!-- nama : muhammad alhashir -->
+?php
+// Write your code below:
+<!-- nim : 2255201024 -->
+$first_array = array("hello", 88, "my", -12361.11, "friend");
+echo count($first_array);
+<!-- kelas a -->
