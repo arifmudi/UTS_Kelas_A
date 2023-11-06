@@ -1,0 +1,5 @@
+<!-- nama : zilla tulhusna -->
+<?php
+// nim : 2255201048
+echo 82 % 6;
+// kelas a

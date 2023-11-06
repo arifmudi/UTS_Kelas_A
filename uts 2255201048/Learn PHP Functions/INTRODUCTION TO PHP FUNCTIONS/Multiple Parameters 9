@@ -1,0 +1,17 @@
+<!-- nama : zilla tulhusna -->
+<?php
+// Write your code below:
+function calculateArea($height, $width)
+{
+  return $height * $width;
+}
+// nim : 2255201048
+function calculateVolume($height, $width, $depth)
+{
+  return $height * $width * $depth;
+}  
+
+echo calculateArea(5, 5);
+echo "\n";
+echo calculateVolume(5, 10, 8);
+// kelas a
