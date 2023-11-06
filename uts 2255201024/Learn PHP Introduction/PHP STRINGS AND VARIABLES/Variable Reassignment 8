@@ -1,0 +1,18 @@
+<!-- Nama: muhammad alhashir -->
+<?php
+  $movie = "Narnia";
+// Add your code here:
+$movie = "Narnia";
+$old_favorite = $movie;
+
+
+  echo "I'm a fickle person, my favorite movie used to be $movie.";
+// nim : 2255201024
+// Add a statement here:
+  $movie ="Narnia";
+  
+  echo "\nBut now my favorite is $movie.";
+  
+// Add a statement below:
+echo "\nBut I'll always have a special place in my heart for $old_favorite."
+// kelas a

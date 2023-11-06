@@ -1,0 +1,16 @@
+<!-- nama : muhammad alhashir -->
+<?php
+
+// Write your code below:
+
+function printStringReturnNumber()
+{
+// nim :2255201024 
+  echo "dua puluh\n";
+  return 20;
+}
+
+$my_num = printStringReturnNumber();
+
+echo $my_num;
+// kelas A

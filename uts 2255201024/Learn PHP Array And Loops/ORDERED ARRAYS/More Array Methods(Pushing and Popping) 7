@@ -1,0 +1,12 @@
+<!-- Nama: muhammad alhashir -->
+<?php
+namespace Codecademy;
+// nim : 2255201024
+$stack = ["wild success", "failure", "struggle"];
+// Write your code below:
+array_push($stack , "blocker", "impediment");
+array_pop($stack);
+array_pop($stack);
+array_pop($stack);
+array_pop($stack);
+// kelas a

@@ -1,0 +1,8 @@
+<!-- Nama: muhammad alhashir -->
+<?php
+// Write your code below:
+// 2255201024
+ $namecat = "Molly, ajill, Acill"; 
+ $biography = "\n. Jangan Salahkan Waktu Yang Cepat Berlalu,Tapi Salahkan Diri Yang Tak Pernah Memulai";
+ $favorite_food = "\n" ."tur". "duck". "en" ;
+//  kelas a
