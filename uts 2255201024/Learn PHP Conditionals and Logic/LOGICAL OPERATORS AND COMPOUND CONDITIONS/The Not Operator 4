@@ -1,0 +1,18 @@
+<!-- nama : muhammad alhashir -->
+<?php
+namespace Codecademy;
+
+function duckDuckGoose($is_goose){
+  if (!$is_goose){
+    return "duck";
+  } else {
+    return "goose!";
+  }
+}
+// nim : 2255201024
+echo duckDuckGoose(FALSE);
+echo "\n";
+echo duckDuckGoose(FALSE);
+echo "\n";
+echo duckDuckGoose(TRUE);
+// kelas a

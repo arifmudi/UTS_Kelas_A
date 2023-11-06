@@ -1,0 +1,14 @@
+<!-- nama : muhammad alhashir  -->
+<?php
+
+$language = "PHP";
+$topic = "scope";
+// nim : 2255201024
+function generateLessonName($concept)
+{
+  global $language;
+  return $language . ": " . $concept;
+}
+
+echo generateLessonName($topic);
+// kelas a

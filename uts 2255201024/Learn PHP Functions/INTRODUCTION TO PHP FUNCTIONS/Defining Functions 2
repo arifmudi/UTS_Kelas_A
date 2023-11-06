@@ -1,0 +1,10 @@
+<!-- nama : muhammad alhashir -->
+<?php
+// Write your code below:
+  
+function praisePHP()
+// nim : 2255201024
+{
+  echo "hallo zilla tulhusna";
+}
+// kelas A
