@@ -1,0 +1,16 @@
+<!-- Nama: Zilla Tulhusna -->
+<?php
+namespace Codecademy;
+
+$round_one = ["X", "X", "first winner"];
+
+$round_two = ["second winner", "X", "X", "X"];
+// nim : 2255201048
+$round_three = ["X", "X", "X", "X", "third winner"];
+
+// Write your code below:
+
+$winners = [$round_one[1], $round_two[2], $round_three[3]];
+
+print_r($winners);
+// kelas a

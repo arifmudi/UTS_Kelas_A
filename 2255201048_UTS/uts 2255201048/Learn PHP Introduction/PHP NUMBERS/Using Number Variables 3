@@ -1,0 +1,9 @@
+<!-- Nama: Zilla Tulhusna -->
+<?php
+// Write your code below:
+  $last_month = 1187.23;
+// nim : 2255201048
+  $this_month = 1089.98;
+
+  echo $last_month - $this_month;
+// kelas a

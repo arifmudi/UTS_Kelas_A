@@ -1,0 +1,11 @@
+<!-- Nama: Zilla Tulhusna -->
+<?php
+// Write your code below:
+ $name = "Zilla Tulhusna";
+ $language = "english";
+//  nim : 2255201048
+ echo "Nama Saya" . $name;
+ $food = "Mie goreng";
+ echo "Suka" . $food;
+ echo "\n" . $language;
+//  kelas a
