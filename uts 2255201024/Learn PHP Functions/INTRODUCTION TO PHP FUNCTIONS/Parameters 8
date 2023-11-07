@@ -1,0 +1,19 @@
+<!-- nama : muhammad alhashir -->
+<?php
+// Write your code below:
+function increaseEnthusiasm($str_param)
+{
+  return $str_param . "!";
+}
+
+function repeatThreeTimes($str_param)
+{
+  return $str_param . $str_param . $str_param;
+}  
+// nim : 2255201024
+echo increaseEnthusiasm("hi");
+
+echo repeatThreeTimes("bye");
+
+echo increaseEnthusiasm(repeatThreeTimes("hai"));
+// kelas a
