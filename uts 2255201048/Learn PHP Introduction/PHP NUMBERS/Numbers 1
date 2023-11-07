@@ -1,0 +1,9 @@
+<!-- Nama: Zilla Tulhusna -->
+<?php
+ $nilai = 21;
+ echo $nilai; 
+ echo "\n" ; 
+//  nim : 2255201048
+ $movie_nilai = 4.2;
+ echo $movie_nilai;
+// kelas a
