@@ -1,0 +1,8 @@
+<!-- Nama: Zilla Tulhusna -->
+<?php
+// Write your code below:
+// 2255201048
+ $namecat = "Molly, Bro, Acill"; 
+ $biography = "\n. Jangan Salahkan Waktu Yang Cepat Berlalu,Tapi Salahkan Diri Yang Tak Pernah Memulai";
+ $favorite_food = "\n" ."tur". "duck". "en" ;
+//  kelas a

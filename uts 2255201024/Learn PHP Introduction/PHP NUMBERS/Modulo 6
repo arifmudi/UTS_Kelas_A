@@ -1,0 +1,5 @@
+<!-- nama : muhammad alhashir -->
+<?php
+// nim : 2255201024
+echo 82 % 6;
+// kelas a

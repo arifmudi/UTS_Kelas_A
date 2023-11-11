@@ -1,0 +1,23 @@
+<?php
+//Muhammad Syafiq Firdaus Affan
+//2255201025
+
+$my_car = [
+  "minyak" => "hitam dan menggumpal",
+  "rem" => "baru",
+  "ban" => "tua dengan tapak yang halus",
+  "kotoran" => "kotoran burung", 
+  "cairan penghapus" => "penuh", 
+  "lampu depan" => "terang"
+];
+print_r($my_car);
+// Write your code below:
+$my_car["minyak"] = "baru dan premium";
+
+$my_car["ban"] = "baru dengan tapak dalam";
+
+
+unset ($my_car["kotoran"]);
+
+print_r($my_car);
+// kelas A

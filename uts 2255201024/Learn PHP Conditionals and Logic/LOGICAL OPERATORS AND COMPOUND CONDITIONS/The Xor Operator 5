@@ -1,0 +1,11 @@
+<!-- nama : muhammad alhashir -->
+<?php
+namespace Codecademy;
+$fruit = "banana";
+$protein = "pork";
+// nim : 2255201024
+// Write your code below:
+if ($fruit == "banana" xor $protein == "chicken"){
+  echo "Dig in!";
+} 
+// kelas a

@@ -1,0 +1,8 @@
+<!-- muhammad alhashir -->
+<?php
+echo "1. thing you have to do";
+echo "1. Teach PHP"; 
+// nim : 2255201024
+echo "\n2. This is a string that starts on a new line!";
+echo  "\n3. Learn to have \"fun\"";
+// kelas a

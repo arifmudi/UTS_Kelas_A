@@ -1,0 +1,15 @@
+<!-- Nama: muhammad alhashir -->
+<?php
+namespace Codecademy;
+
+$change_me = [3, 6, 9];
+// Write your code below:
+// nim : 2255201024
+$change_me[] = "Hamster";
+
+$change_me[] = 77;
+
+$change_me[1] = "cat";
+
+print_r($change_me);
+// kelas a

@@ -1,0 +1,12 @@
+<!-- nama : muhammad alhashir -->
+<?php
+// Write your code below:
+function inflateEgo()
+{
+  echo "You are strong.\n";
+}
+// nim : 2255201024
+inflateEgo();
+
+inflateEgo();
+// kelas A

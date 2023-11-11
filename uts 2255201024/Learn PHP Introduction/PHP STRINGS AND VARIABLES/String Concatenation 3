@@ -1,0 +1,9 @@
+<!-- Nama: muhammad alhashir -->
+<?php
+// Write your code below: 
+// nim : 2255201024  
+echo "Code" . "cademy";
+  //echo "\nMy name is:"
+echo "\nMy name is:" . " MUHAMMAD ALHASHIR";
+echo "\n". "tur". "duck" . "en";
+// kelas a

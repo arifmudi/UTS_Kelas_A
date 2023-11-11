@@ -1,0 +1,8 @@
+<!-- nama : muhammad alhashir -->
+<?php
+namespace Codecademy;
+// nim : 2255201024
+// Write your code below:
+$with_function = array("PHP", "popcorn", 555.55);
+$with_short = ["PHP", "popcorn", 555.55];
+// kelas a

@@ -1,0 +1,13 @@
+<!-- Nama: muhammad alhashir -->
+<?php
+// Write your code below:
+// nim : 2255202024
+	$my_num = 12;
+	$answer = $my_num;
+	$answer += 2;
+	$answer *= 2;
+	$answer -= 2;
+	$answer /= 2;
+	$answer -= $my_num;
+	echo $answer;
+// kelas a

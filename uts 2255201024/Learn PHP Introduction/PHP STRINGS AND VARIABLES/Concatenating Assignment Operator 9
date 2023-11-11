@@ -1,0 +1,17 @@
+<!-- Nama: muhammad alhashir -->
+<?php
+  echo "I'm going on a picnic!";
+
+  $sentence = "\nI'm going on a picnic, and I'm taking apples";
+
+  echo $sentence;
+// nim : 2255201024
+// Write your code below:
+$sentence .= ", wine";
+  
+   echo $sentence;
+   
+   $sentence .= ", orange";
+
+   echo $sentence;
+// kelas a
